@@ -1,0 +1,11 @@
+@import url(../css/home.css);
+
+.titulo{
+    font-size: 50px;
+    backdrop-filter: blur(30px);
+    border-radius: 30px;
+    font-weight: bold;
+    text-align: center;
+
+
+}
